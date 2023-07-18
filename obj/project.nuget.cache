@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "swbeIuyvA2mnavxM/YDRl9Ne1o2HvvALm6rREntIDRjGAECJktKWq2H2G2fZSnfvXCS0BBAz8IHIC9J0/B3QiQ==",
+  "success": true,
+  "projectFilePath": "/home/philipp/Documents/Programmieren/C#/GtkTest/GtkTest.csproj",
+  "expectedPackageFiles": [
+    "/home/philipp/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio/2.1.0/naudio.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio.asio/2.1.0/naudio.asio.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio.core/2.1.0/naudio.core.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio.midi/2.1.0/naudio.midi.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio.wasapi/2.1.0/naudio.wasapi.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/naudio.winmm/2.1.0/naudio.winmm.2.1.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/philipp/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/home/philipp/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
